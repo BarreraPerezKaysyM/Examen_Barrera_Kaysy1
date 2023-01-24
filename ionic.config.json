@@ -1,0 +1,7 @@
+{
+  "name": "Examen_Barrera_Kaysy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,12 @@
+[
+    {
+    "icon": "alert",
+    "name": "Alert",
+    "redirectTo": "/alert"
+    },
+    {
+    "icon": "browsers",
+    "name": "Inputs Forms",
+    "redirectTo": "/input"
+    }   
+]
